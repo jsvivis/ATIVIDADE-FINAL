@@ -1,0 +1,7 @@
+Instalação e configuração do Cypress:
+npm init --yes
+npm install cypress
+npx cypress open --config 
+npx cypress open --config viewportWidth=400, viewportHeight=543 
+npx cypress open (serve para executar)
+npm run cypress:run:mobile (executar e abrir)

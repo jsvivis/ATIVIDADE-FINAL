@@ -1,0 +1,35 @@
+
+NoSuchElementError: no such element: Unable to locate element: {"method":"css selector","selector":"*[name="Cadastrar"]"}
+  (Session info: chrome=127.0.6533.73)
+    at Object.throwDecodedError (c:\CURSO\Codificação para Front End\ATIVIDADE 
+FINAL\SELENIUM\node_modules\selenium-webdriver\lib\error.js:521:15)
+    at parseHttpResponse (c:\CURSO\Codificação para Front End\ATIVIDADE FINAL\SELENIUM\node_modules\selenium-webdriver\lib\
+js:514:13)
+    at Executor.execute (c:\CURSO\Codificação para Front End\ATIVIDADE FINAL\SELENIUM\node_modules\selenium-webdriver\lib\h
+js:446:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Driver.execute (c:\CURSO\Codificação para Front End\ATIVIDADE 
+FINAL\SELENIUM\node_modules\selenium-webdriver\lib\webdriver.js:742:17)
+    at async Atividade05 (c:\CURSO\Codificação para Front End\ATIVIDADE FINAL\SELENIUM\Atividade05.js:11:22) {
+  remoteStacktrace: '\tGetHandleVerifier [0x00007FF669ADEEC2+31554]\n' +
+    '\t(No symbol) [0x00007FF669A57EF9]\n' +
+    '\t(No symbol) [0x00007FF66991872A]\n' +
+    '\t(No symbol) [0x00007FF669968434]\n' +
+    '\t(No symbol) [0x00007FF66996853C]\n' +
+    '\t(No symbol) [0x00007FF6699AF6A7]\n' +
+    '\t(No symbol) [0x00007FF66998D06F]\n' +
+    '\t(No symbol) [0x00007FF6699AC977]\n' +
+    '\t(No symbol) [0x00007FF66998CDD3]\n' +
+    '\t(No symbol) [0x00007FF66995A33B]\n' +
+    '\t(No symbol) [0x00007FF66995AED1]\n' +
+    '\tGetHandleVerifier [0x00007FF669DE8B5D+3217373]\n' +
+    '\tGetHandleVerifier [0x00007FF669E35B23+3532707]\n' +
+    '\tGetHandleVerifier [0x00007FF669E2B120+3489184]\n' +
+    '\tGetHandleVerifier [0x00007FF669B8E796+750614]\n' +
+    '\t(No symbol) [0x00007FF669A6377F]\n' +
+    '\t(No symbol) [0x00007FF669A5EB34]\n' +
+    '\t(No symbol) [0x00007FF669A5ECC2]\n' +
+    '\t(No symbol) [0x00007FF669A4E18F]\n' +
+    '\tBaseThreadInitThunk [0x00007FFE60A27374+20]\n' +
+    '\tRtlUserThreadStart [0x00007FFE60EBCC91+33]\n'
+}
