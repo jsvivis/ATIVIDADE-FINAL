@@ -33,5 +33,4 @@ cy.contains('.pageLeft', 'Cadastrar').find('button').click();
 //sequencia do teste de click no botão de escolha de Editar, pois a funcionalidade não funciona, gerando um erro. Alguns //dos erros gerados:
 // * "Timed out retrying after 4000ms: Expected to find element: .pointWindow > :nth-child(1), but never found it."
 // * "Timed out retrying after 4000ms: Expected to find element: brandField, but never found it."
-// * "Timed out retrying after 4000ms: Expected to find element: .pointWindow > :nth-child(1), but never found it."
 //Teste realizado já dentro da página de Edição.
